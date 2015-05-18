@@ -66,29 +66,25 @@ feedback_email:
 #     - text for link 2
 homepage_links:
   general:
-    Government Assistance:
-      - Health Insurance
-      - Medicare
-      - SFMNP (Food vouchers for seniors)
-      - SNAP (Food Stamps)
-      - 'WIC (Women, Infants, & Children)'
+    Attención & Gestiones:
+      - Centros de salud
+      - Farmacias
+      - Servicios Sociales Municipales
 
-    Children, Teens, & Families:
-      - Abuse Prevention
-      - Child Care
-      - Counseling
-      - Mentoring Programs
-      - Youth Development
+    Menores, Familia & Mujeres:
+      - Centros de Atención para Menores y Familia
+      - Puntos de atención a mujeres
 
   emergency:
-    Emergency:
-      - Psychiatric Emergency
-      - Emergency Food
-      - Emergency Shelter
+    Centros de Inclusion Social:
+      - Personas mayores
+      - Personas con discapacidad
+      - Personas sin hogar
 
-    Reporting:
-      - Domestic Violence
-      - Child Abuse
+    Participación Ciudadana:
+      - Federaciones
+      - Asociaciones
+      - Enseñanzas artísticas
 
 ####################
 #
@@ -224,11 +220,11 @@ info_box_terms:
 # If you do not wish to include any language translation links,
 # comment out or delete all of the language settings shown.
 language_links:
-  - 'English: en'
   - 'Español: es'
-  - 'Tagalog: tl'
-  - '中文: zh-CN'
+  - 'English: en'
   - 'العربية: ar'
+  - '中文: zh-CN'
+  - 'Română: ro'
   - 'Русский: ru'
 
 ######################
@@ -256,7 +252,7 @@ site_logo: app_logo.png
 # to the end of the page title. For example, if you were viewing the page for
 # a location called "Health Insurance TeleCenter", the browser would display
 # "Health Insurance TeleCenter | Ohana Web Search" as the page title.
-site_title: Ohana Web Search
+site_title: SociSalud Madrid - Buscador Ohana
 
 ###########################
 #
