@@ -220,11 +220,11 @@ info_box_terms:
 # If you do not wish to include any language translation links,
 # comment out or delete all of the language settings shown.
 language_links:
-  - 'English: en'
   - 'Español: es'
-  - 'Tagalog: tl'
-  - '中文: zh-CN'
+  - 'English: en'
   - 'العربية: ar'
+  - '中文: zh-CN'
+  - 'Română: ro'
   - 'Русский: ru'
 
 ######################
