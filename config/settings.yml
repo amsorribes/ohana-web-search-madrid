@@ -66,29 +66,25 @@ feedback_email:
 #     - text for link 2
 homepage_links:
   general:
-    Government Assistance:
-      - Health Insurance
-      - Medicare
-      - SFMNP (Food vouchers for seniors)
-      - SNAP (Food Stamps)
-      - 'WIC (Women, Infants, & Children)'
+    Attención & Gestiones:
+      - Centros de salud
+      - Farmacias
+      - Servicios Sociales Municipales
 
-    Children, Teens, & Families:
-      - Abuse Prevention
-      - Child Care
-      - Counseling
-      - Mentoring Programs
-      - Youth Development
+    Menores, Familia & Mujeres:
+      - Centros de Atención para Menores y Familia
+      - Puntos de atención a mujeres
 
   emergency:
-    Emergency:
-      - Psychiatric Emergency
-      - Emergency Food
-      - Emergency Shelter
+    Centros de Inclusion Social:
+      - Personas mayores
+      - Personas con discapacidad
+      - Personas sin hogar
 
-    Reporting:
-      - Domestic Violence
-      - Child Abuse
+    Participación Ciudadana:
+      - Federaciones
+      - Asociaciones
+      - Enseñanzas artísticas
 
 ####################
 #
