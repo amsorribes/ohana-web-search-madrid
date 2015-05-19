@@ -167,43 +167,70 @@ info_box_terms:
     synonyms:
       - 'centros de día para mayores'
       - 'centros de dia para mayores'
-      - 'centros de día'
-      - 'centros de dia'
+      - 'para mayores'
       - 'personas mayores'
       - mayores
       - personas mayores
       - asistencia mayores
       - ancianos
-    title: 'Centros de Día para Mayores'
+    title: Centros de Día para Mayores
     description:
-      'Son equipamientos de Servicios Sociales no residenciales, destinados a prestar atención psico-social, preventiva y rehabilitadora, al colectivo de mayores en régimen diurno para prevenir y/o compensar la pérdida de autonomía. El objetivo es proporcionar atención socio-sanitaria que prevenga y compense la pérdida de autonomía, facilitando apoyo a sus familiares o cuidadores, retrasando la institucionalización y facilitando la permanencia en su medio habitual.'
+      "Son equipamientos de Servicios Sociales no residenciales, destinados a prestar atención psico-social, preventiva y rehabilitadora, al colectivo de mayores en régimen diurno para prevenir y/o compensar la pérdida de autonomía. El objetivo es proporcionar atención socio-sanitaria que prevenga y compense la pérdida de autonomía, facilitando apoyo a sus familiares o cuidadores, retrasando la institucionalización y facilitando la permanencia en su medio habitual."
     url: https://sede.madrid.es/portal/site/tramites/menuitem.1f3361415fda829be152e15284f1a5a0/?vgnextoid=6a86ef82e1bed010VgnVCM1000000b205a0aRCRD&vgnextchannel=23a99c5ffb020310VgnVCM100000171f5a0aRCRD
 
-  sfmnp:
+  caf:
     synonyms:
-      - sfmnp
-      - senior farmers' market nutrition program
-      - senior farmers market nutrition program
-      - food vouchers for seniors
-      - food vouchers
-    title: Senior Farmers' Market Nutrition Program
+      - caf
+      - 'centros de apoyo a las familias'
+      - apoyo a las familias
+    title: Centros de Apoyo a las Familias, CAF
     description:
-      "Senior Farmers' Market Nutrition Program (SFMNP)
-      provides low-income seniors with coupons that can be exchanged for eligible
-      foods at farmers' markets, roadside stands, and community-supported
-      agriculture programs."
-    url: http://www.fns.usda.gov/sfmnp
+      "Centros de Apoyo a las Familias, CAF, cuyas actuaciones tienen por finalidad ayudar a las familias ante las dificultades que puedan surgir en la convivencia familiar, colaborando en la prevención y contención de situaciones de crisis o de conflicto."
+    url: http://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Servicios-sociales/Centros-de-Apoyo-a-las-familias-CAF-?vgnextfmt=default&vgnextoid=6926df919b149410VgnVCM2000000c205a0aRCRD&vgnextchannel=fe8a171c30036010VgnVCM100000dc0ca8c0RCRD&idioma=es&idiomaPrevio=es&rmColeccion=1128f7bb7d9b4210VgnVCM1000000b205a0aRCRD
 
-  snap:
+  cai:
     synonyms:
-      - snap
-      - food stamps
-      - calfresh
-    title: SNAP
+      - cai
+      - 'centros de atención a la infancia'
+      - atención a la infancia
+      - infancia
+    title: Centros de Atención a la Infancia, CAI
     description:
-      'SNAP offers nutrition assistance to millions of eligible,
-      low-income individuals and families and provides economic benefits to communities.'
-    url: http://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap
+      "Centros de Atención a la Infancia, CAI, ofrecen servicios de prevención, apoyo y atención a los menores en situación de riesgo grave o presunto desamparo y a sus familias , garantizando el buen trato a los menores y el fortalecimiento de las familias mediante el acompañamiento, la supervisión y el tratamiento especializado, aplicando en su intervención estrategias psicológicas, educativas y sociales. Junto con los Servicios de Atención Social Primaria (Centros de Servicios Sociales), configuran la red municipal de protección de menores en la ciudad de Madrid."
+    url: http://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Servicios-sociales/Centros-de-Atencion-a-la-Infancia-CAI-?vgnextfmt=default&vgnextoid=02cb88a75f324210VgnVCM1000000b205a0aRCRD&vgnextchannel=fe8a171c30036010VgnVCM100000dc0ca8c0RCRD&idioma=es&idiomaPrevio=es&rmColeccion=1128f7bb7d9b4210VgnVCM1000000b205a0aRCRD
+
+  pef:
+    synonyms:
+      - pef
+      - 'puntos de encuentro familiar'
+      - puntos familiar
+      - encuentro familiar
+    title: Puntos de Encuentro Familiar, PEF
+    description:
+      "Puntos de Encuentro Familiar, PEF, dirigidos a familias con menores en las que se haya producido una ruptura en la convivencia familiar por separación o divorcio de los padres o por acogimiento familiar, y en las que el grado de conflictividad impide o dificulta gravemente el desarrollo del régimen de visitas. Tienen como objetivo favorecer el derecho de los menores a relacionarse con sus familiares. Facilitan a las familias un entorno idóneo y neutral para el desarrollo temporal de comunicación y visitas, siguiendo las pautas que establezcan las instancias judiciales o administrativas competentes."
+    url: http://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Servicios-sociales/Puntos-de-Encuentro-Familiar-PEF-?vgnextfmt=default&vgnextoid=9ad740bca9e45210VgnVCM2000000c205a0aRCRD&vgnextchannel=fe8a171c30036010VgnVCM100000dc0ca8c0RCRD&idioma=es&idiomaPrevio=es&rmColeccion=1128f7bb7d9b4210VgnVCM1000000b205a0aRCRD
+
+  aspa:
+    synonyms:
+      - aspa
+      - 'Centros de Apoyo Socioeducativo y Prelaboral para Adolescentes'
+      - apoyo socioeducativo
+      - prelaboral
+      - apoyo adolecentes
+    title: Centros de Apoyo Socioeducativo y Prelaboral para Adolescentes, ASPA
+    description:
+      "Centros de Apoyo Socioeducativo y Prelaboral para Adolescentes, ASPA, donde se desarrollan proyectos dirigidos a: adolescentes de 12 a 18 años en situación de desprotección social o que hayan protagonizado situaciones de violencia en diferentes contextos, y a jóvenes de 16 a 21 años que por factores personales, familiares y sociales, hayan abandonado procesos previos de inserción social y escolar y se encuentren inmersos en situación de riesgo de exclusión, necesitando un acompañamiento para su incorporación al mercado laboral."
+    url: http://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Servicios-sociales/Centros-para-Adolescentes-y-Jovenes-ASPA?vgnextfmt=default&vgnextoid=12684520636a8210VgnVCM2000000c205a0aRCRD&vgnextchannel=fe8a171c30036010VgnVCM100000dc0ca8c0RCRD&idioma=es&idiomaPrevio=es&rmColeccion=1128f7bb7d9b4210VgnVCM1000000b205a0aRCRD
+
+  centros_dia_menores:
+    synonyms:
+      - 'centros de día para menores'
+      - 'centros de dia para menores'
+      - 'centros para menores'
+    title: Centros de Apoyo Socioeducativo y Prelaboral para Adolescentes, ASPA
+    description:
+      "Los Centros de Día son recursos dirigidos a menores en donde se les presta atención y cuidado al finalizar la jornada escolar. La finalidad de este programa es apoyar la conciliación de la vida familiar y laboral, así como evitar los factores de riesgo que la ausencia prolongada de padres/madres y tutores puede ocasionar a los menores; favoreciendo, además, el desarrollo de habilidades sociales, la adquisición de valores, normas, límites y respeto mutuo. "
+    url: http://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Servicios-sociales/Centros-de-Dia-para-menores?vgnextfmt=default&vgnextoid=8681ead5dc6bb410VgnVCM2000000c205a0aRCRD&vgnextchannel=fe8a171c30036010VgnVCM100000dc0ca8c0RCRD&idioma=es&idiomaPrevio=es&rmColeccion=1128f7bb7d9b4210VgnVCM1000000b205a0aRCRD
 
 ###################################################################
 #
