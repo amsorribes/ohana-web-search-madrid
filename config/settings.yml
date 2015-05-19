@@ -163,19 +163,23 @@ homepage_links:
 #       - aca
 #     custom: component/info_box/example_custom_template
 info_box_terms:
-  wic:
+  centros_de_dia_mayores:
     synonyms:
-      - wic
-      - 'women, infants, and children'
-      - 'women, infants, & children'
-      - assistance for mothers
-    title: 'Women, Infants, and Children'
+      - 'centros de día para mayores'
+      - 'centros de dia para mayores'
+      - 'centros de día'
+      - 'centros de dia'
+      - 'personas mayores'
+      - mayores
+      - personas mayores
+      - asistencia mayores
+      - ancianos
+    title: 'Centros de Día para Mayores'
     description:
-      'Women, Infants, and Children (WIC)
-      provides assistance for low-income pregnant, breastfeeding, and
-      non-breastfeeding postpartum women, and to eligible infants and
-      children up to age 5.'
-    url: http://www.fns.usda.gov/wic
+      'Son equipamientos de Servicios Sociales no residenciales, destinados a prestar atención psico-social, preventiva y rehabilitadora, al colectivo de mayores en régimen diurno para prevenir y/o compensar la pérdida de autonomía. 
+      <br /><br />
+      El objetivo es proporcionar atención socio-sanitaria que prevenga y compense la pérdida de autonomía, facilitando apoyo a sus familiares o cuidadores, retrasando la institucionalización y facilitando la permanencia en su medio habitual.'
+    url: https://sede.madrid.es/portal/site/tramites/menuitem.1f3361415fda829be152e15284f1a5a0/?vgnextoid=6a86ef82e1bed010VgnVCM1000000b205a0aRCRD&vgnextchannel=23a99c5ffb020310VgnVCM100000171f5a0aRCRD
 
   sfmnp:
     synonyms:

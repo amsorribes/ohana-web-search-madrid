@@ -115,6 +115,8 @@ es:
     formats:
       schedules_hours: '%l:%M%P'
       holiday_schedules_date: '%B %e'
+    am: ''
+    pm:''
 
   views:
     pagination:
